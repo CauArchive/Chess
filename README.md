@@ -1,2 +1,2 @@
-# Java-Chess-Game
-CAUCSE Software Programming Java Chess Game
+# 
+Software Programming Java Chess Game
